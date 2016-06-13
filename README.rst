@@ -5,6 +5,8 @@ Description
 Given two sets of points, finds all pairwise indices such that the
 separation between any pair satisfies ``separation >=0 RMIN && separation < RMAX``.
 
+**UNDER DEVELOPMENT - DO NOT USE** (this message will disappear once the code is ready)
+
 Installation
 ============
 
